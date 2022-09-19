@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-cookie-consent",
+  "version": "1.0.0",
+  "description": "Bootstrap cookie banner is a popup window with cookie notice required by GDPR. Learn how to create a modal like this with Bootstrap 5 or download free examples.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-cookie-consent.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-cookie-consent",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-cookie-consent/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/cookie-consent/"
+}
